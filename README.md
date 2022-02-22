@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
+</p>
+
+
 - 👋 Hi, I’m Ritam
 - 👀 I’m interested in web dev
 - 📫 reach -> imritambhadra10@gmail.com
