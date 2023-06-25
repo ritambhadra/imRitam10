@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px">
+  <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px"> <br>
+  <img height="300em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
 </p>
 
 
@@ -29,3 +30,4 @@ and make the best of any situation. -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritambhadra&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritambhadra&theme=dracula" />
 </p>
+![Snake animation](https://github.com/ritambhadra/MelRibeiro/blob/output/github-contribution-grid-snake.svg)
