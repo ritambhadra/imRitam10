@@ -11,7 +11,7 @@
 - 📫 reach -> imritambhadra10@gmail.com
 
 
-<!-- I'm Ritam, Electronics and Communication engineering student of BIT College. A
+<!-- I'm Ritam, an Electronics and Communication engineering student of BIT College. A
 passionate individual who loves to work on various projects. Can work well under pressure
 and make the best of any situation. -->
 
@@ -30,4 +30,3 @@ and make the best of any situation. -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritambhadra&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritambhadra&theme=dracula" />
 </p>
-![Snake animation](https://github.com/ritambhadra/MelRibeiro/blob/output/github-contribution-grid-snake.svg)
